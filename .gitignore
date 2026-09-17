@@ -1,0 +1,8 @@
+__pycache__
+.git
+.vscode
+/campaigns
+/data
+/saved_campaigns/*
+/sounds
+/venv*

@@ -1,0 +1,5 @@
+astral~=3.1
+pyinstaller~=3.4
+pysdl2~=0.9.17
+pysdl2-dll~=2.32.10
+tcod~=11.4.0
